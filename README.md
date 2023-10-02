@@ -1,7 +1,7 @@
 # TechnicalAssessment-task-1
 A case done for Acos AS
 
-#Changes
+# Changes
 - Controller
   - Edited YahtzeeController.cs
 - Model
